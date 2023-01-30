@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("----- Basic Core Programs  -----");
-            LeapYear leapYear = new LeapYear();
-            leapYear.Ensure();
+            PowerOf2 powerOf2 = new PowerOf2();
+            powerOf2.Power();
         }
     }
 }
