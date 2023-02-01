@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----- Basic Core Programs -----\n-----> Quotient & Remainder -----\n");
-            Quotient quotient = new Quotient();
-            quotient.QueRem();
+            Console.WriteLine("----- Basic Core Programs -----\n-----> Swapping of two nos -----\n");
+            Swap quotient = new Swap();
+            quotient.No();
         }
     }
 }
