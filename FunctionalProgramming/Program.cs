@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----- Basic Core Programs  -----");
+            Console.WriteLine("----- Basic Core Programs ----> Prime Factors -----");
             Prime prime = new Prime();
             prime.Factors();
         }
