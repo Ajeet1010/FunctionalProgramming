@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----- Basic Core Programs ----> Prime Factors -----");
-            Prime prime = new Prime();
-            prime.Factors();
+            Console.WriteLine("----- Basic Core Programs -----\n-----> Quotient & Remainder -----\n");
+            Quotient quotient = new Quotient();
+            quotient.QueRem();
         }
     }
 }
