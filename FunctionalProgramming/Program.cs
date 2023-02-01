@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----- Basic Core Programs -----\n-----> Check no is Even or Odd no -----\n");
-            EvenOdd quotient = new EvenOdd();
-            quotient.No();
+            Console.WriteLine("----- Basic Core Programs -----\n-----> Check Alphabet is Vowel or Consonant -----\n");
+            Alphabet quotient = new Alphabet();
+            quotient.VowCons();
         }
     }
 }
