@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("----- Basic Core Programs  -----");
-            HarmonicNo harmonicNo = new HarmonicNo();
-            harmonicNo.Nth();
+            Prime prime = new Prime();
+            prime.Factors();
         }
     }
 }
