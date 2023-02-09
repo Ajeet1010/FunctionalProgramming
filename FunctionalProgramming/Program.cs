@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----- Basic Core Programs -----\n-----> Check Alphabet is Vowel or Consonant -----\n");
-            Alphabet quotient = new Alphabet();
-            quotient.VowCons();
+            Console.WriteLine("----- Basic Core Programs -----\n-----> Largest No -----\n");
+            Largest largest = new Largest();
+            largest.No();
         }
     }
 }
