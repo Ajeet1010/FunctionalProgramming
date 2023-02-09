@@ -11,7 +11,7 @@ namespace FunctionalProgramming
     {
          public void No()
          {
-            Console.Write("Enter first no: ");
+            Console.Write("\nEnter first no: ");
             int first = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter second no: ");
             int second = Convert.ToInt32(Console.ReadLine());
